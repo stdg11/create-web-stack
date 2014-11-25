@@ -2,7 +2,6 @@ create-web-stack
 ================
 
 Create OpenStack Users, Tenants, Instances and NGINX Reverse Proxy Blocks
-# OpenStack SDK Script
 
 Python automation script with the aim to complete below objectives.
 
