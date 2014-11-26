@@ -1,5 +1,6 @@
 INFO:root:Started
 INFO:root:Started
-INFO:root:Reading users from usernames.txt
+INFO:root:Started
+INFO:root:Reading users from ../usernames.txt
 DEBUG:root:Users: ['99ed11', '99zz11', '99jb11', '99jb13']
 INFO:root:Finished
