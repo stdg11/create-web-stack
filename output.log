@@ -3,3 +3,57 @@ INFO:root:Started
 INFO:root:Reading users from usernames.txt
 DEBUG:root:Users: ['99ed11', '99zz11', '99jb11', '99jb13']
 INFO:root:Finished
+INFO:root:Started
+INFO:root:Started
+INFO:root:Reading users from usernames.txt
+DEBUG:root:Users: ['99ed11', '99zz11', '99jb11', '99jb13']
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Started
+INFO:root:Reading users from usernames.txt
+DEBUG:root:Users: ['99ed11', '99zz11', '99jb11', '99jb13']
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Reading users from usernames.txt
+DEBUG:root:Users: ['99ed11', '99zz11', '99jb11', '99jb13']
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Reading users from usernames.txt
+DEBUG:root:Users: ['99ed11', '99zz11', '99jb11', '99jb13']
+INFO:root:Started
+INFO:root:Reading users from usernames.txt
+DEBUG:root:Users: ['99ed11', '99zz11', '99jb11', '99jb13']
+DEBUG:iso8601.iso8601:Parsed 2014-11-26T14:01:29Z into {'day': None, 'minute': '01', 'second': '29', 'hour': '14', 'month': None, 'second_fraction': None, 'daydash': '26', 'year': '2014', 'tz_sign': None, 'monthdash': '11', 'tz_minute': None, 'tz_hour': None, 'separator': 'T', 'timezone': 'Z'} with default timezone <iso8601.iso8601.Utc object at 0x107d6b518>
+DEBUG:iso8601.iso8601:Got '2014' for 'year' with default None
+DEBUG:iso8601.iso8601:Got '11' for 'monthdash' with default 1
+DEBUG:iso8601.iso8601:Got 11 for 'month' with default 11
+DEBUG:iso8601.iso8601:Got '26' for 'daydash' with default 1
+DEBUG:iso8601.iso8601:Got 26 for 'day' with default 26
+DEBUG:iso8601.iso8601:Got '14' for 'hour' with default None
+DEBUG:iso8601.iso8601:Got '01' for 'minute' with default None
+DEBUG:iso8601.iso8601:Got '29' for 'second' with default None
+INFO:root:MIIKCAYJKoZIhvcNAQcCoIIJ+TCCCfUCAQExDTALBglghkgBZQMEAgEwgghWBgkqhkiG9w0BBwGggghHBIIIQ3siYWNjZXNzIjogeyJ0b2tlbiI6IHsiaXNzdWVkX2F0IjogIjIwMTQtMTEtMjZUMTM6MDE6MjkuNDM3MjgwIiwgImV4cGlyZXMiOiAiMjAxNC0xMS0yNlQxNDowMToyOVoiLCAiaWQiOiAicGxhY2Vob2xkZXIiLCAidGVuYW50IjogeyJkZXNjcmlwdGlvbiI6ICJBZG1pbiBUZW5hbnQiLCAiZW5hYmxlZCI6IHRydWUsICJpZCI6ICIxNDI3ZDFlYjEwMjg0MTFmOTViZTUxNjYxZTVjYjUxMSIsICJuYW1lIjogImFkbWluIn19LCAic2VydmljZUNhdGFsb2ciOiBbeyJlbmRwb2ludHMiOiBbeyJhZG1pblVSTCI6ICJodHRwOi8vYnJncmFjbG91ZDo4Nzc2L3YxLzE0MjdkMWViMTAyODQxMWY5NWJlNTE2NjFlNWNiNTExIiwgInJlZ2lvbiI6ICJyZWdpb25PbmUiLCAiaW50ZXJuYWxVUkwiOiAiaHR0cDovL2JyZ3JhY2xvdWQ6ODc3Ni92MS8xNDI3ZDFlYjEwMjg0MTFmOTViZTUxNjYxZTVjYjUxMSIsICJpZCI6ICIwNzBjZDBhM2NjNTM0YWZjYjQzZmY0MTcyMzZmNDEzNyIsICJwdWJsaWNVUkwiOiAiaHR0cDovL2JyZ3JhY2xvdWQ6ODc3Ni92MS8xNDI3ZDFlYjEwMjg0MTFmOTViZTUxNjYxZTVjYjUxMSJ9XSwgImVuZHBvaW50c19saW5rcyI6IFtdLCAidHlwZSI6ICJ2b2x1bWUiLCAibmFtZSI6ICJjaW5kZXIifSwgeyJlbmRwb2ludHMiOiBbeyJhZG1pblVSTCI6ICJodHRwOi8vYnJncmFjbG91ZDo5MjkyIiwgInJlZ2lvbiI6ICJyZWdpb25PbmUiLCAiaW50ZXJuYWxVUkwiOiAiaHR0cDovL2JyZ3JhY2xvdWQ6OTI5MiIsICJpZCI6ICIzZDkxNDNhMTE0Zjc0OWUxYjc5YTA5ZGJmNjE1ZWJlZSIsICJwdWJsaWNVUkwiOiAiaHR0cDovL2JyZ3JhY2xvdWQ6OTI5MiJ9XSwgImVuZHBvaW50c19saW5rcyI6IFtdLCAidHlwZSI6ICJpbWFnZSIsICJuYW1lIjogImdsYW5jZSJ9LCB7ImVuZHBvaW50cyI6IFt7ImFkbWluVVJMIjogImh0dHA6Ly9icmdyYWNsb3VkOjg3NzQvdjIvMTQyN2QxZWIxMDI4NDExZjk1YmU1MTY2MWU1Y2I1MTEiLCAicmVnaW9uIjogInJlZ2lvbk9uZSIsICJpbnRlcm5hbFVSTCI6ICJodHRwOi8vYnJncmFjbG91ZDo4Nzc0L3YyLzE0MjdkMWViMTAyODQxMWY5NWJlNTE2NjFlNWNiNTExIiwgImlkIjogIjQ3ZjliNGY0YTVmNjQwNGE4ODEzYmNmNWUxZWQyMzg1IiwgInB1YmxpY1VSTCI6ICJodHRwOi8vYnJncmFjbG91ZDo4Nzc0L3YyLzE0MjdkMWViMTAyODQxMWY5NWJlNTE2NjFlNWNiNTExIn1dLCAiZW5kcG9pbnRzX2xpbmtzIjogW10sICJ0eXBlIjogImNvbXB1dGUiLCAibmFtZSI6ICJub3ZhIn0sIHsiZW5kcG9pbnRzIjogW3siYWRtaW5VUkwiOiAiaHR0cDovL2JyZ3JhY2xvdWQ6MzUzNTcvdjIuMCIsICJyZWdpb24iOiAicmVnaW9uT25lIiwgImludGVybmFsVVJMIjogImh0dHA6Ly9icmdyYWNsb3VkOjUwMDAvdjIuMCIsICJpZCI6ICIxMmFiZjM3NTg4Mzg0M2RhYTUwM2E3MmZhMzE0NDU1MyIsICJwdWJsaWNVUkwiOiAiaHR0cDovL2JyZ3JhY2xvdWQ6NTAwMC92Mi4wIn1dLCAiZW5kcG9pbnRzX2xpbmtzIjogW10sICJ0eXBlIjogImlkZW50aXR5IiwgIm5hbWUiOiAia2V5c3RvbmUifSwgeyJlbmRwb2ludHMiOiBbeyJhZG1pblVSTCI6ICJodHRwOi8vYnJncmFjbG91ZDo4Nzc2L3YyLzE0MjdkMWViMTAyODQxMWY5NWJlNTE2NjFlNWNiNTExIiwgInJlZ2lvbiI6ICJyZWdpb25PbmUiLCAiaW50ZXJuYWxVUkwiOiAiaHR0cDovL2JyZ3JhY2xvdWQ6ODc3Ni92Mi8xNDI3ZDFlYjEwMjg0MTFmOTViZTUxNjYxZTVjYjUxMSIsICJpZCI6ICIxZTkxM2Q0NDE0Y2I0NzNmOWMyZjgxMjM5ZDU0YmQyZSIsICJwdWJsaWNVUkwiOiAiaHR0cDovL2JyZ3JhY2xvdWQ6ODc3Ni92Mi8xNDI3ZDFlYjEwMjg0MTFmOTViZTUxNjYxZTVjYjUxMSJ9XSwgImVuZHBvaW50c19saW5rcyI6IFtdLCAidHlwZSI6ICJ2b2x1bWV2MiIsICJuYW1lIjogImNpbmRlcnYyIn1dLCAidXNlciI6IHsidXNlcm5hbWUiOiAiY2xvdWRhZG1pbiIsICJyb2xlc19saW5rcyI6IFtdLCAiaWQiOiAiY2xvdWRhZG1pbiIsICJyb2xlcyI6IFt7Im5hbWUiOiAiYWRtaW4ifV0sICJuYW1lIjogImNsb3VkYWRtaW4ifSwgIm1ldGFkYXRhIjogeyJpc19hZG1pbiI6IDAsICJyb2xlcyI6IFsiYzc4YWM2NDI2OWRkNGUyZWFiOTFlNTZiMWJkYjA3MTgiXX19fTGCAYUwggGBAgEBMFwwVzELMAkGA1UEBhMCVVMxDjAMBgNVBAgMBVVuc2V0MQ4wDAYDVQQHDAVVbnNldDEOMAwGA1UECgwFVW5zZXQxGDAWBgNVBAMMD3d3dy5leGFtcGxlLmNvbQIBATALBglghkgBZQMEAgEwDQYJKoZIhvcNAQEBBQAEggEAhe5A25QJg-mnxykIgeu40hO-NVgKZo-VJBCUwkpyxV7dxyN5X8WTLumHs2Hzi7F9jl3q1jdWSgWyhDPztR7I5WaPrXezx26Fly9RsrM50CETPyP73vqwggjTp1DuaYBjCOTttTrh5l4yPGoxmF3FOqZXvp0LM3snaYYxBJD4fycnKliR0Nr8-v+rtuCjAtRJvS7iY3likUkh48YOha25pKEGfjNneVwyZUAYFWfwl0OYbzNDOL4L79EbZnum6MP6IYJsro34SwVNURQCpb3TAryIe9wlAuFoNTv+yKbLltlFw4Lt8GRJrDmIfj2CF8KZhsF4jOJwNbv6bf6UgopKcQ==
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Reading users from usernames.txt
+DEBUG:root:Users: ['bill', 'ben']
+INFO:root:Started
+INFO:root:Reading users from usernames.txt
+DEBUG:root:Users: ['bill', 'ben']
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Reading users from usernames.txt
+DEBUG:root:Users: ['bill', 'ben']
+INFO:root:Started
+INFO:root:Reading users from usernames.txt
+DEBUG:root:Users: ['bill', 'ben']
+INFO:root:Started
+INFO:root:Reading users from usernames.txt
+DEBUG:root:Users: ['bill', 'ben']
+INFO:root:Started
+INFO:root:Reading users from usernames.txt
+DEBUG:root:Users: ['bill', 'ben']
+INFO:root:Started
+INFO:root:Reading users from usernames.txt
+DEBUG:root:Users: ['bill', 'ben']
+INFO:root:Finished
