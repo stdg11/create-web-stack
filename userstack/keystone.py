@@ -7,12 +7,12 @@ import keystoneclient.v2_0.tenants as kstenants
 keystone = ksclient.Client(auth_url=env['OS_AUTH_URL'],
         username=env['OS_USERNAME'],
         password=env['OS_PASSWORD'],
-        tenant_name=env['OS_TENANT_NAME'],)
+        tenant_name=env['OS_TENANT_NAME'])
 
 # Store Auth token for later use
 auth_ref = keystone.auth_ref
 
 def createTenants(userlist):
     for user in userlist:
-        kstenants.TenantManager.create(tenant_name=user)
+        kstenants.TenantManager.create(user,auth_ref)
         print("Created tenant: ", user)

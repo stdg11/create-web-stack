@@ -57,3 +57,24 @@ INFO:root:Started
 INFO:root:Reading users from usernames.txt
 DEBUG:root:Users: ['bill', 'ben']
 INFO:root:Finished
+INFO:root:Started
+INFO:root:Reading users from usernames.txt
+DEBUG:root:Users: ['bill', 'ben']
+INFO:root:Started
+INFO:root:Reading users from usernames.txt
+DEBUG:root:Users: ['bill', 'ben']
+INFO:root:Started
+INFO:root:Reading users from usernames.txt
+DEBUG:root:Users: ['bill', 'ben']
+INFO:root:Started
+INFO:root:Reading users from usernames.txt
+DEBUG:root:Users: ['bill', 'ben']
+INFO:root:Started
+INFO:root:Reading users from usernames.txt
+DEBUG:root:Users: ['bill', 'ben']
+INFO:root:Started
+INFO:root:Reading users from usernames.txt
+DEBUG:root:Users: ['bill', 'ben']
+INFO:root:Started
+INFO:root:Reading users from usernames.txt
+DEBUG:root:Users: ['bill', 'ben']

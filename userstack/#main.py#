@@ -10,7 +10,6 @@ def main():
     logging.info('Started')
     users = sys.argv[1]
     userlist = loaduserscsv.read(users)
-    print(userlist[1])
     keystone.createTenants(userlist)
     logging.info('Finished')
 
